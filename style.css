@@ -101,8 +101,9 @@ section.imag{
 section#imagen01{
     background-image: url(imagens/background001.jpg);
     background-position: right center ;
-    top: -50, -50%;
     background-size: cover;
+    background-attachment: fixed;
+    
    
    
 
